@@ -1,0 +1,1 @@
+Place users.csv, courses.csv, and transactions.csv in this folder after exporting the workbook tabs.
